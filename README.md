@@ -61,6 +61,24 @@ The game should show "Custom Dictionary" in the bottom left corner.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc5920eb-3ab3-43f5-b79b-8efcab7e2079" />
 
+## Available Languages
+
+The following languages are currently available:
+
+- **Brazilian Portuguese** (`brazilian-portuguese`)
+- **Catalan** (`catalan`)
+- **Dutch**
+  - Standard (`dutch`)
+  - No IJ variant (`dutch (no ij)`)
+- **French** (`french`)
+- **German** (`german`)
+- **Norwegian**
+  - Bokmål (`norwegian (bokmål)`)
+  - Nynorsk (`norwegian (nynorsk)`)
+- **Polish** (`polish`)
+- **Romanian** (`romanian`)
+- **Spanish** (`spanish`)
+
 ## Contribute
 
 ### Standard Language Contribution
