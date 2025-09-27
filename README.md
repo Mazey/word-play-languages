@@ -18,9 +18,11 @@ chmod +x install_language.sh
 ```
 
 ### Windows
+You most likely will need to enable ps1 script 
 ```powershell
-.\install_language.ps1 <language_name>
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
+.\install_language.ps1 <language_name>
 # List available languages
 .\install_language.ps1 --list
 
@@ -45,7 +47,7 @@ If you prefer to install manually, you'll need to find the folder with your save
 `%USERPROFILE%\AppData\LocalLow\Game Maker's Toolkit\Word Play`
 
 ### Linux
-Linux runs Word Play through Proton, therefor it uses the Windows folder structure nested inside the `compatdata` folder. This folder is relative to the `steamapps` folder you installed the game in. The default location is:
+Linux runs Word Play through Proton, therefore, it uses the Windows folder structure nested inside the `compatdata` folder. This folder is relative to the `steamapps` folder you installed the game in. The default location is:
 
 `~/.local/share/Steam/steamapps/compatdata/3586660/pfx/drive_c/users/steamuser/AppData/LocalLow/Game Maker's Toolkit/Word Play/`
 
