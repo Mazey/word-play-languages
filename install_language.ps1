@@ -1,4 +1,4 @@
-# Word Play Language Mod Installer for Windows
+﻿# Word Play Language Mod Installer for Windows
 # Works on all Windows systems by default (PowerShell comes pre-installed)
 # Usage: .\install_language.ps1 <language_name>
 
