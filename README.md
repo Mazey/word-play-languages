@@ -72,8 +72,12 @@ The following languages are currently available:
 - **Dutch**
   - Standard (`dutch`)
   - No IJ variant (`dutch (no ij)`)
+- **Finnish** (`finnish`)
 - **French** (`french`)
 - **German** (`german`)
+- **Italian**
+  - Standard (`italian`)
+  - 26-letter alphabet variant (`italian-26letters`)
 - **Norwegian**
   - Bokmål (`norwegian (bokmål)`)
   - Nynorsk (`norwegian (nynorsk)`)
